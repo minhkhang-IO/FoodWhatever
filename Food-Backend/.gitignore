@@ -25,3 +25,8 @@ dist-ssr
 # Secrets & API Keys
 google-key.json
 server.js
+serviceAccountKey.json
+*.json
+!.github/*.json
+.env
+.env.local
